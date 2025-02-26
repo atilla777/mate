@@ -1,0 +1,10 @@
+en:
+  activerecord:
+    models:
+      'scan/config':
+        one: Scan config
+        other: Scan configs
+    attributes:
+      'scan/config':
+        ports_ranges: Ports
+        hosts_ranges: Hosts

@@ -1,0 +1,10 @@
+en:
+  activerecord:
+    models:
+      'scan/config_ports_range':
+        one: Config port range
+        other: Config port ranges
+    attributes:
+      'scan/config_ports_range':
+        start: Start port range
+        end: End port range

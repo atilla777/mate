@@ -1,0 +1,5 @@
+en:
+  scan:
+    ui:
+      button:
+        scan: Run scan

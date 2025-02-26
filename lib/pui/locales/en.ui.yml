@@ -1,0 +1,19 @@
+en:
+  pui:
+    button:
+      show_record: Show record
+      new_record: New record
+      edit_record: Edit record
+      save: Save
+      delete_record: Delete record
+      confirm: Confirm
+      cancel: Cancel
+      next: Next
+      previous: Previous
+      filter: Filter
+      clear: Clear
+    confirm: Are you sure?
+    order:
+      by: Order field
+      asc: Ascending
+      desc: Descending
