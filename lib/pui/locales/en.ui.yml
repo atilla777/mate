@@ -1,0 +1,11 @@
+en:
+  pui:
+   el:
+    button:
+     new_record: New record
+     edit_record: Edit record
+     save: Save
+     delete_record: Delete record
+     confirm: Confirm
+     cancel: Cancel
+    confirm: Are you sure?
