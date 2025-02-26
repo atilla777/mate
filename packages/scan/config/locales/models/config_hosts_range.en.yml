@@ -1,0 +1,10 @@
+en:
+  activerecord:
+    models:
+      'scan/config_hosts_range':
+        one: Config port range
+        other: Config port ranges
+    attributes:
+      'scan/config_hosts_range':
+        start: Start host range
+        end: End host range
