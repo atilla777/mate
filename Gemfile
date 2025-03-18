@@ -38,4 +38,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "phlex-rails", "~> 2.0"
+gem "phlex-rails", "~> 2.1"
