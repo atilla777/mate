@@ -38,6 +38,6 @@ group :test do
   gem 'selenium-webdriver'
 end
 
-gem 'phlex-rails', '~> 2.0'
+gem 'phlex-rails', '~> 2.2'
 gem 'activerecord_cursor_paginate'
 gem 'ransack'
